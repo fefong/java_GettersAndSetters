@@ -18,7 +18,7 @@ public class Person {
 
 ## Getters
 
-Class **[person](src\java_GettersAndSetters\Person.java)** declares getters.
+Class **[person](src/java_GettersAndSetters/Person.java)** declares getters.
 
 ```java
 public String getName() {
@@ -45,7 +45,7 @@ public String getFullName() {
 
 ## Setters
 
-Class **[person](src\java_GettersAndSetters\Person.java)** declares setters.
+Class **[person](src/java_GettersAndSetters/Person.java)** declares setters.
 
 ```java
 public void setName(String name) {
