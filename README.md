@@ -6,7 +6,7 @@ Example Application: Getters and Setters
 
 # Variables 
 
-Declare any variable: 
+Create a class and declare any variable: 
 
 ```java
 public class Person {
